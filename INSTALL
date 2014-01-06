@@ -4,6 +4,6 @@ See doc/readme-qt.rst for instructions on building Clockcoin QT,
 the intended-for-end-users, nice-graphical-interface, reference
 implementation of Clockcoin.
 
-See doc/build-*.txt for instructions on building clockcoind,
+See doc/build-*.txt for instructions on building Clockcoind,
 the intended-for-services, no-graphical-interface, reference
 implementation of Clockcoin.
